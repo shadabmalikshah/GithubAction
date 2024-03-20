@@ -1,1 +1,5 @@
-# GH_ACT_7_SONAR
+# springboot-example
+Spring Boot Example Application
+
+
+API Endpoint: http://localhost:8080/
