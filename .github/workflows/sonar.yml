@@ -33,4 +33,4 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_QUBE }}
-        # run: bash script_sonar.sh 
+        run: bash script_sonar.sh 
